@@ -6,9 +6,12 @@
 
 General
 
--Demostrar e identificar tecnicas o metodos para determinar los elementos de los circuitos electrocos. 
+-Demostrar e Identificar técnicas y métodos para determinar los circuitos eléctricos.
 
 Especificos
+
+-Aplicar los análisis de mallas para resolver los ejercicios.
+
 
 
 **2.-MARCO TEÓRICO**
@@ -29,15 +32,15 @@ Especificos
 |1|Resistor de 2.2 kΩ|
 |1|Protoboard|
 
-3.2.- Procedimiento
+**3.2.- Procedimiento**
 
-3.2.1.-Implemente el circuito que se presenta en la figura 2.1.
+**3.2.1.-Implemente el circuito que se presenta en la figura 2.1.**
 
 ![3](https://user-images.githubusercontent.com/75336529/121611487-f64c7400-ca1d-11eb-91a4-d8d646e66ea1.PNG)
 
 ![7](https://user-images.githubusercontent.com/75336529/121612006-2ba59180-ca1f-11eb-8230-9d9ff8f0c68a.png)
 
-3.2.2.-Mida cada una de las corrientes de malla y anote los resultados en la tabla 2.1.
+**3.2.2.-Mida cada una de las corrientes de malla y anote los resultados en la tabla 2.1.**
 
 ![4](https://user-images.githubusercontent.com/75336529/121611841-cce01800-ca1e-11eb-815c-ef147563043e.jpeg)
 
@@ -45,13 +48,13 @@ Especificos
 
 ![6](https://user-images.githubusercontent.com/75336529/121611869-dec1bb00-ca1e-11eb-8223-1b24fca42482.jpeg)
 
-3.2.3.-Simule en el software Multisim, Proteus, o cualquier otro simulador, el circuito de la figura 2.1, obteniendo los valores de las corrientes de malla. Anote los resultados en la tabla 2.1.
+**3.2.3.-Simule en el software Multisim, Proteus, o cualquier otro simulador, el circuito de la figura 2.1, obteniendo los valores de las corrientes de malla. Anote los resultados en la tabla 2.1.**
 
 ![11](https://user-images.githubusercontent.com/75336529/121619508-5814da00-ca2e-11eb-8bb8-569dd34e2b41.png)
 
 ![12](https://user-images.githubusercontent.com/75336529/121619491-53502600-ca2e-11eb-9660-1f91215b312e.png)
 
-3.2.4.-Compare los valores de la tabla 2.1 y realice sus conclusiones.
+**3.2.4.-Compare los valores de la tabla 2.1 y realice sus conclusiones.**
 
 tabla 2.1: Resultados obtenidos de la  figura 2.1.
 
@@ -63,18 +66,24 @@ tabla 2.1: Resultados obtenidos de la  figura 2.1.
 
 **4.-RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
 
-4.1.-Calculos realizados
+4.1.-Cálculos realizados
 
-Calculo de la corriente analisis de mallas.
+Cálculo de la corriente analisis de mallas.
 
 ![9](https://user-images.githubusercontent.com/75336529/121618898-3cf59a80-ca2d-11eb-88a6-86edb3715caa.PNG)
 ![10](https://user-images.githubusercontent.com/75336529/121618915-4121b800-ca2d-11eb-9c30-6bee5a78b078.PNG)
 
-Calculo del error
+Cálculo del error
+
+Malla uno
 
 ![14](https://user-images.githubusercontent.com/75336529/121621991-c8255f00-ca32-11eb-8b45-f342afda4b31.PNG)
 
+Malla Dos
+
 ![15](https://user-images.githubusercontent.com/75336529/121622328-70d3be80-ca33-11eb-8a43-75428942e3ae.PNG)
+
+Malla tres
 
 ![16](https://user-images.githubusercontent.com/75336529/121622330-716c5500-ca33-11eb-89eb-e499b58c4b1d.PNG)
 
@@ -84,4 +93,10 @@ Vide: https://www.youtube.com/watch?v=52GKTS0DTPQ
 
 **6.-CONCLUSIONES**
 
+-Luego de realizar las evaluaciones correspondientes con las simulaciones respectivas, finalmente se conoce las aplicaciones de las leyes de Kirchhoff en los cálculos de mallas y nodos de un circuito electrónico, su desfasamiento simplemente se debe al margen de error de las resistencias que componen el circuito.
 
+-Observamos que no hay un porcentaje de error significativo entre en fundamento ideal o teórico, respecto a un experimental, puesto que los elementos usados durante la práctica, no iterfieren bastante en la forma de valores.
+
+**7.-BIBLIOGRAFIA**
+
+C. (2021, 8 enero). Método de mallas – análisis de circuitos. dademuchconnection. https://dademuch.com/2019/11/05/metodo-de-mallas-analisis-de-circuitos/
